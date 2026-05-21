@@ -10,14 +10,16 @@
 | Модуль | Статус |
 |--------|--------|
 | intent | done |
-| API-контракт | todo |
-| README | todo |
-| Gherkin-тесты | todo |
-| Go-сервер | todo |
+| API-контракт (Шаг 1) | todo |
+| README (Шаг 1) | todo |
+| Шаблон компонентных тестов (Шаг 2.0) | todo |
+| Gherkin-сценарии (Шаг 2) | todo |
+| Реализация (Шаг 3, slice-by-slice) | todo |
+| CI на PR (Шаг 4) | todo |
 
 ## Следующий шаг
 
-Шаг 1 — OpenAPI-спека и README. Ветка: `feat/api-contract`.
+Шаг 1 — OpenAPI-спека и README с «Картой режимов отказа». Ветка: `feat/api-contract`. Подробности — `backlog.md`.
 
 ## Принятые решения
 
