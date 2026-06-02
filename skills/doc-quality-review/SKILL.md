@@ -1,6 +1,6 @@
 ---
 name: doc-quality-review
-description: Детерминированная рубрика ревью качества уже написанной документации репозитория по 6 ядровым характеристикам IBM-фреймворка «Developing Quality Technical Information» (Hargis, Carey et al.) — task orientation, accuracy, completeness, clarity, organization, retrievability — адаптированным под markdown-доки. Рассчитан на слабую модель (уровня Qwen 37B): ✓/✗-проверки, правило «если ✗ → действие», сводный вердикт и план правок. Применять, когда нужно ОТРЕВЬЮИТЬ существующие README / docs/architecture.md / прочие доки на качество. Не применять для написания доки с нуля — это скилл documentation; характеристики style / concreteness / visual намеренно вне ядра.
+description: Детерминированная рубрика ревью качества уже написанной документации репозитория по 6 ядровым характеристикам IBM-фреймворка «Developing Quality Technical Information» (Hargis, Carey et al.) — task orientation, accuracy, completeness, clarity, organization, retrievability — адаптированным под markdown-доки. Рассчитан на слабую модель (Qwen3.5-397B-A17B, ~17B активных параметров): ✓/✗-проверки, правило «если ✗ → действие», сводный вердикт и план правок. Применять, когда нужно ОТРЕВЬЮИТЬ существующие README / docs/architecture.md / прочие доки на качество. Не применять для написания доки с нуля — это скилл documentation; характеристики style / concreteness / visual намеренно вне ядра.
 ---
 
 # Ревью качества документации — рубрика 6 характеристик
